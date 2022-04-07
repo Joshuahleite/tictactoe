@@ -5,8 +5,8 @@ h1 {
 	}
 	#b1, #b2, #b3, #b4, #b5,
 	#b6, #b7, #b8, #b9 {
-		width: 150px;
-		height: 150px;
+		width: 10%;
+		height: 21%;
 		margin: auto;
 		border: 1px solid gray;
 		border-radius: 6px;
